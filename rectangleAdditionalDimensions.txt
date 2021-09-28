@@ -1,0 +1,96 @@
+Rectangle 1
+Width of rectangle: 12
+Height of rectangle: 2
+Area of rectangle: 24
+Perimeter of rectangle: 28
+
+Rectangle 2
+Width of rectangle: 10
+Height of rectangle: 4
+Area of rectangle: 40
+Perimeter of rectangle: 28
+
+Rectangle 3
+Width of rectangle: 5
+Height of rectangle: 4
+Area of rectangle: 20
+Perimeter of rectangle: 18
+
+Rectangle 4
+Width of rectangle: 6
+Height of rectangle: 8
+Area of rectangle: 48
+Perimeter of rectangle: 28
+
+Rectangle 5
+Width of rectangle: 20
+Height of rectangle: 8
+Area of rectangle: 160
+Perimeter of rectangle: 56
+
+Rectangle 6
+Width of rectangle: 10
+Height of rectangle: 6
+Area of rectangle: 60
+Perimeter of rectangle: 32
+
+Rectangle 7
+Width of rectangle: 6
+Height of rectangle: 5
+Area of rectangle: 30
+Perimeter of rectangle: 22
+
+Rectangle 8
+Width of rectangle: 5
+Height of rectangle: 5
+Area of rectangle: 25
+Perimeter of rectangle: 20
+
+Rectangle 9
+Width of rectangle: 2
+Height of rectangle: 4
+Area of rectangle: 8
+Perimeter of rectangle: 12
+
+Rectangle 10
+Width of rectangle: 9
+Height of rectangle: 1
+Area of rectangle: 9
+Perimeter of rectangle: 20
+
+Rectangle 11
+Width of rectangle: 1
+Height of rectangle: 3
+Area of rectangle: 3
+Perimeter of rectangle: 8
+
+Rectangle 12
+Width of rectangle: 2
+Height of rectangle: 7
+Area of rectangle: 14
+Perimeter of rectangle: 18
+
+Rectangle 13
+Width of rectangle: 9
+Height of rectangle: 8
+Area of rectangle: 72
+Perimeter of rectangle: 34
+
+Rectangle 14
+Width of rectangle: 12
+Height of rectangle: 12
+Area of rectangle: 144
+Perimeter of rectangle: 48
+
+Rectangle 15
+Width of rectangle: 6
+Height of rectangle: 5
+Area of rectangle: 30
+Perimeter of rectangle: 22
+
+Rectangle 16
+Width of rectangle: 10
+Height of rectangle: 11
+Area of rectangle: 110
+Perimeter of rectangle: 42
+
